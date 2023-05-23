@@ -5,7 +5,7 @@ The Hospital Management System is a software application that enables hospitals 
 
 # design and documentation for each resource
 <h2>1. Appointment Resource</h2>
-![appointments](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/08d4201b-ebcc-4b6b-9508-b45f83f83994)
+![appointments](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/08d4201b-ebcc-4b6b-9508-b45f83f83994.png)
 <h2>2. Diagnosis Resource</h2>
 ![diagnoses](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/c8806d69-1e8e-43c2-a7e5-b9788d0ef25f)
 <h2>3. Patient Resource</h2>
