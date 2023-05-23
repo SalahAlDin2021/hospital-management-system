@@ -17,5 +17,5 @@ The Hospital Management System is a software application that enables hospitals 
 <h2>6. Doctor Resource</h2>
 ![doctors](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/998d1aa9-9b96-475f-8664-ca8c1826b3c0)
 
-# Postman collection for APIs testing
+# <a href="https://github.com/SalahAlDin2021/hospital-management-system/blob/main/Hospital%20Managment%20System%20Rest.postman_collection.json">Postman collection for APIs testing</a>
 
