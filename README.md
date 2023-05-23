@@ -5,17 +5,17 @@ The Hospital Management System is a software application that enables hospitals 
 
 # design and documentation for each resource
 <h2>1. Appointment Resource</h2>
-![image](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/0fef73bb-d63f-4b5a-9dd9-9b5bcf642bed)
+![appointments](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/08d4201b-ebcc-4b6b-9508-b45f83f83994)
 <h2>2. Diagnosis Resource</h2>
-![image](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/35736ee7-8697-4b57-aa82-8839f9341e31)
+![diagnoses](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/c8806d69-1e8e-43c2-a7e5-b9788d0ef25f)
 <h2>3. Patient Resource</h2>
-![image](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/61f83971-589d-4f40-acca-e152ba8a5471)
+![patients](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/f7bb1e93-f1cd-49e6-9029-06de21cba8d0)
 <h2>4. MedicalRecord Resource</h2>
-![image](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/27c97cdc-5d43-4c88-8151-4fd1cdef66f3)
+![medicalRecords](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/86192205-00f6-4cc1-a443-0610a42b9e4a)
 <h2>5. Drug Resource</h2>
-![image](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/73cb1b13-b1be-49f5-b2d0-6ed9857e2edb)
+![drugs](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/f2a84543-0812-4395-b858-a39f2cac18a2)
 <h2>6. Doctor Resource</h2>
-![image](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/d97ccd0b-907b-410b-82bf-bd4d184ae357)
+![doctors](https://github.com/SalahAlDin2021/hospital-management-system/assets/91832490/998d1aa9-9b96-475f-8664-ca8c1826b3c0)
 
 # Postman collection for APIs testing
 
